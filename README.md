@@ -1,0 +1,1 @@
+# Repository with datasets and material supporting the practical sessions for the Module on Data Science Applications to Medical Imaging, part of the Data Intensive Science MPhil, University of Cambridge
